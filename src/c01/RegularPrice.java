@@ -1,6 +1,5 @@
 package c01;
 
-import edu.makoto.movie.Movie;
 
 public class RegularPrice extends Price {
 
